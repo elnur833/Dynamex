@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250.293" height="262.154" viewBox="0 0 250.293 262.154">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fef5e9;
+      }
+
+      .cls-2 {
+        fill: #cecee2;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #00c99c;
+      }
+
+      .cls-5 {
+        fill: #c8c8e6;
+      }
+    </style>
+  </defs>
+  <g id="undraw_done_checking_ty9a" transform="translate(-89.764 0.003)">
+    <rect id="Rectangle_266" data-name="Rectangle 266" class="cls-1" width="213.17" height="122.5" transform="translate(153.523 -0.003) rotate(28.948)"/>
+    <rect id="Rectangle_267" data-name="Rectangle 267" class="cls-2" width="70.896" height="93.081" transform="translate(89.764 87.563)"/>
+    <rect id="Rectangle_268" data-name="Rectangle 268" class="cls-1" width="31.831" height="31.831" transform="translate(109.297 102.273)"/>
+    <rect id="Rectangle_269" data-name="Rectangle 269" class="cls-1" width="55.945" height="3.858" transform="translate(97.239 140.856)"/>
+    <rect id="Rectangle_270" data-name="Rectangle 270" class="cls-1" width="55.945" height="3.858" transform="translate(97.239 151.466)"/>
+    <rect id="Rectangle_271" data-name="Rectangle 271" class="cls-1" width="55.945" height="3.858" transform="translate(97.239 162.076)"/>
+    <rect id="Rectangle_272" data-name="Rectangle 272" class="cls-2" width="70.896" height="93.081" transform="translate(240.237 169.069)"/>
+    <rect id="Rectangle_273" data-name="Rectangle 273" class="cls-1" width="50.158" height="5.787" transform="translate(250.606 181.368)"/>
+    <rect id="Rectangle_274" data-name="Rectangle 274" class="cls-1" width="50.158" height="5.787" transform="translate(250.606 193.907)"/>
+    <rect id="Rectangle_275" data-name="Rectangle 275" class="cls-1" width="50.158" height="5.787" transform="translate(250.606 206.446)"/>
+    <rect id="Rectangle_276" data-name="Rectangle 276" class="cls-1" width="50.158" height="5.787" transform="translate(250.606 218.986)"/>
+    <rect id="Rectangle_277" data-name="Rectangle 277" class="cls-1" width="50.158" height="5.787" transform="translate(250.606 231.525)"/>
+    <rect id="Rectangle_278" data-name="Rectangle 278" class="cls-1" width="50.158" height="5.787" transform="translate(250.606 244.065)"/>
+    <rect id="Rectangle_279" data-name="Rectangle 279" class="cls-2" width="70.896" height="93.081" transform="translate(219.499 12.327)"/>
+    <rect id="Rectangle_280" data-name="Rectangle 280" class="cls-1" width="50.158" height="5.787" transform="translate(229.868 43.434)"/>
+    <rect id="Rectangle_281" data-name="Rectangle 281" class="cls-1" width="50.158" height="5.787" transform="translate(229.868 55.974)"/>
+    <rect id="Rectangle_282" data-name="Rectangle 282" class="cls-1" width="50.158" height="5.787" transform="translate(229.868 68.513)"/>
+    <ellipse id="Ellipse_175" data-name="Ellipse 175" class="cls-3" cx="8.561" cy="8.577" rx="8.561" ry="8.577" transform="translate(280.461 3.652)"/>
+    <path id="Path_120" data-name="Path 120" class="cls-4" d="M967.122,88.74a10.232,10.232,0,1,0,10.232,10.232A10.232,10.232,0,0,0,967.122,88.74Zm-2.1,15.687-5.244-5.244,1.471-1.471,3.778,3.778L973,93.516l1.471,1.471-9.45,9.44Z" transform="translate(-678.1 -86.549)"/>
+    <ellipse id="Ellipse_176" data-name="Ellipse 176" class="cls-3" cx="8.561" cy="8.577" rx="8.561" ry="8.577" transform="translate(302.646 158.466)"/>
+    <path id="Path_121" data-name="Path 121" class="cls-5" d="M1013.127,409.74a10.232,10.232,0,1,0,10.232,10.232A10.232,10.232,0,0,0,1013.127,409.74Zm-2.1,15.687-5.244-5.244,1.471-1.471,3.778,3.778,7.974-7.974,1.471,1.471Z" transform="translate(-701.917 -252.736)"/>
+    <ellipse id="Ellipse_177" data-name="Ellipse 177" class="cls-3" cx="8.561" cy="8.577" rx="8.561" ry="8.577" transform="translate(152.173 77.924)"/>
+    <path id="Path_122" data-name="Path 122" class="cls-4" d="M701.121,242.74a10.232,10.232,0,1,0,10.232,10.232A10.232,10.232,0,0,0,701.121,242.74Zm-2.1,15.687-5.244-5.244,1.471-1.471,3.778,3.778L707,247.516l1.471,1.471-9.45,9.44Z" transform="translate(-540.387 -166.277)"/>
+  </g>
+</svg>
